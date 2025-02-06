@@ -1,0 +1,21 @@
+/* Styling for the Bar Chart */
+.bar-chart {
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #eef6f8;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  canvas {
+    max-width: 100%;
+    height: auto;
+  }
+  
